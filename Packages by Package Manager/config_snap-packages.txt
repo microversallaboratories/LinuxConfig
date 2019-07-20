@@ -1,0 +1,20 @@
+jacobnorth@jln-tp01-x230-ubuntu:~$ snap list
+Name                     Version                     Rev   Tracking  Publisher       Notes
+atom                     1.38.2                      232   stable    snapcrafters    classic
+core                     16-2.39.3                   7270  stable    canonical✓      core
+core18                   20190709                    1066  stable    canonical✓      base
+discord                  0.0.9                       93    stable    snapcrafters    -
+gnome-3-26-1604          3.26.0.20190705             90    stable/…  canonical✓      -
+gnome-3-28-1804          3.28.0-10-gaa70833.aa70833  67    stable    canonical✓      -
+gnome-calculator         3.32.1                      406   stable/…  canonical✓      -
+gnome-characters         v3.32.1+git2.3367201        296   stable/…  canonical✓      -
+gnome-dictionary         3.26.1                      44    stable    canonical✓      -
+gnome-logs               3.32.0-4-ge8f3f37ca8        61    stable/…  canonical✓      -
+gnome-system-monitor     3.32.1-3-g0ea89b4922        100   stable/…  canonical✓      -
+gotop                    0.1.1                       3     stable    ubuntu-dawndiy  -
+gtk-common-themes        0.1-22-gab0a26b             1313  stable/…  canonical✓      -
+kde-frameworks-5-core18  5.56.0                      29    stable    kde✓            -
+slack                    4.0.0                       15    stable    slack✓          classic
+spotify                  1.1.5.153.gf614956d-16      35    stable    spotify✓        -
+taskbook                 0.3.0                       23    stable    klaussinani     -
+

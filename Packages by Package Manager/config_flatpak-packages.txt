@@ -1,0 +1,31 @@
+jacobnorth@jln-tp01-x230-ubuntu:~$ flatpak list
+Description                            Application       Version         Branch Arch   Origin      Installation
+Bitwarden - A secure and free passwor… …itwarden.desktop 1.14.0          stable x86_64 flathub     system
+GraphUI - Graph Visualization          …manufrij.graphui 1.0.2           stable x86_64 flathub     system
+Remote Touchpad - Control mouse and k… …d.RemoteTouchpad 0.0.13          stable x86_64 flathub     system
+Toggl Desktop - Simple and Intuitive … …ggl.TogglDesktop                 stable x86_64 flathub     system
+Unity Hub - Real-time game engine      …m.unity.UnityHub 2.0.4           stable x86_64 flathub     system
+Gpredict - Real-time satellite tracki… ….oz9aec.Gpredict 2.2.1           stable x86_64 flathub     system
+Freedesktop.org Application Platform … …desktop.Platform 1.6             1.6    x86_64 flathub     system
+Freedesktop Platform - Shared librari… …desktop.Platform 18.08.34        18.08  x86_64 flathub     system
+i386                                   …form.Compat.i386                 18.08  x86_64 flathub     system
+Intel VAAPI Driver - Intel driver for… …form.VAAPI.Intel                 1.6    x86_64 flathub     system
+Intel                                  …form.VAAPI.Intel                 18.08  x86_64 flathub     system
+FFmpeg extension - Add support for aa… ….Platform.ffmpeg                 1.6    x86_64 flathub     system
+html5-codecs                           …orm.html5-codecs                 18.08  x86_64 flathub     system
+Freedesktop SDK - Tools and headers f… ….freedesktop.Sdk 18.08.34        18.08  x86_64 flathub     system
+Unifydmin - GNOME app for controlling… …gabmus.unifydmin 0.1.1           stable x86_64 flathub     system
+GNOME Application Platform version 3.… …g.gnome.Platform                 3.28   x86_64 flathub     system
+GNOME Application Platform version 3.… …g.gnome.Platform                 3.30   x86_64 flathub     system
+GNOME Application Platform version 3.… …g.gnome.Platform                 3.32   x86_64 flathub     system
+GNOME Software Development Kit versio… org.gnome.Sdk                     3.30   x86_64 flathub     system
+Yaru-dark Gtk Theme - Yaru-dark theme  …3theme.Yaru-dark                 3.22   x86_64 flathub     system
+Inkscape - Vector Graphics Editor      …nkscape.Inkscape 0.92.4          stable x86_64 flathub     system
+JASP - Offers standard analysis proce… org.jasp.JASP     0.9.2           master x86_64 jasp-origin system
+KDE Application Platform - Shared lib… org.kde.Platform                  5.12   x86_64 flathub     system
+QGnomePlatform - Qt Platform Theme ai… …e.QGnomePlatform                 5.11   x86_64 flathub     system
+QGnomePlatform - Qt Platform Theme ai… …e.QGnomePlatform                 5.12   x86_64 flathub     system
+KDE Software Development Kit version … org.kde.Sdk                       5.11   x86_64 flathub     system
+KDE Software Development Kit - Tools … org.kde.Sdk                       5.12   x86_64 flathub     system
+GNU Octave - Interactive programming … org.octave.Octave 5.1.0           stable x86_64 flathub     system
+Zoom - Video Conferencing, Web Confer… us.zoom.Zoom      2.8.264592.0714 stable x86_64 flathub     system
