@@ -1,0 +1,63 @@
+kcminputrc Mouse cursorTheme 'breeze_cursors'
+!/home/jacobnorth/.config/kcminputrc
+!/etc/xdg/kcminputrc
+!/home/jacobnorth/.local/share/config/kcminputrc
+!/home/jacobnorth/.local/share/flatpak/exports/share/config/kcminputrc
+!/var/lib/flatpak/exports/share/config/kcminputrc
+!/usr/local/share/config/kcminputrc
+!/usr/share/config/kcminputrc
+*
+kcminputrc Mouse cursorSize ''
+!/home/jacobnorth/.config/kcminputrc
+!/etc/xdg/kcminputrc
+!/home/jacobnorth/.local/share/config/kcminputrc
+!/home/jacobnorth/.local/share/flatpak/exports/share/config/kcminputrc
+!/var/lib/flatpak/exports/share/config/kcminputrc
+!/usr/local/share/config/kcminputrc
+!/usr/share/config/kcminputrc
+*
+ksplashrc KSplash Theme Breeze
+!/home/jacobnorth/.config/ksplashrc
+!/etc/xdg/ksplashrc
+!/home/jacobnorth/.local/share/config/ksplashrc
+!/home/jacobnorth/.local/share/flatpak/exports/share/config/ksplashrc
+!/var/lib/flatpak/exports/share/config/ksplashrc
+!/usr/local/share/config/ksplashrc
+!/usr/share/config/ksplashrc
+*
+ksplashrc KSplash Engine KSplashQML
+!/home/jacobnorth/.config/ksplashrc
+!/etc/xdg/ksplashrc
+!/home/jacobnorth/.local/share/config/ksplashrc
+!/home/jacobnorth/.local/share/flatpak/exports/share/config/ksplashrc
+!/var/lib/flatpak/exports/share/config/ksplashrc
+!/usr/local/share/config/ksplashrc
+!/usr/share/config/ksplashrc
+*
+kdeglobals KScreen ScaleFactor ''
+/home/jacobnorth/.config/kdeglobals
+!/etc/xdg/kdeglobals
+!/home/jacobnorth/.local/share/config/kdeglobals
+!/home/jacobnorth/.local/share/flatpak/exports/share/config/kdeglobals
+!/var/lib/flatpak/exports/share/config/kdeglobals
+!/usr/local/share/config/kdeglobals
+!/usr/share/config/kdeglobals
+*
+kdeglobals KScreen ScreenScaleFactors ''
+/home/jacobnorth/.config/kdeglobals
+!/etc/xdg/kdeglobals
+!/home/jacobnorth/.local/share/config/kdeglobals
+!/home/jacobnorth/.local/share/flatpak/exports/share/config/kdeglobals
+!/var/lib/flatpak/exports/share/config/kdeglobals
+!/usr/local/share/config/kdeglobals
+!/usr/share/config/kdeglobals
+*
+kcmfonts General forceFontDPI 0
+!/home/jacobnorth/.config/kcmfonts
+!/etc/xdg/kcmfonts
+!/home/jacobnorth/.local/share/config/kcmfonts
+!/home/jacobnorth/.local/share/flatpak/exports/share/config/kcmfonts
+!/var/lib/flatpak/exports/share/config/kcmfonts
+!/usr/local/share/config/kcmfonts
+!/usr/share/config/kcmfonts
+*

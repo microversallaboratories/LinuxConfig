@@ -1,0 +1,29 @@
+[General]
+screenCount=1
+
+[LegacySession: saved at previous logout]
+clientMachine1=localhost
+command1=/usr/bin/conky,--daemonize,--pause=1
+count=1
+
+[Session: saved at previous logout]
+clientId1=101c61a416ffd000157143820700000012090005
+clientId2=101c61a416ffd000157143820700000012090006
+clientId3=101c61a416ffd000157143820800000012090008
+count=3
+discardCommand1[$e]=rm,$HOME/.config/session/kwin_101c61a416ffd000157143820700000012090005_1571438256_121834
+program1=/usr/bin/kwin_x11
+program2=/usr/bin/screenrotator
+program3=pulseaudio
+restartCommand1=/usr/bin/kwin_x11,-session,101c61a416ffd000157143820700000012090005_1571438256_121834
+restartCommand2=/usr/bin/screenrotator,-session,101c61a416ffd000157143820700000012090006_1571438256_116569
+restartCommand3=
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+userId1=jacobnorth
+userId2=jacobnorth
+userId3=jacobnorth
+wasWm1=true
+wasWm2=false
+wasWm3=false

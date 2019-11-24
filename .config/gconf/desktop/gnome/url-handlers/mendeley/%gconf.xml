@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="enabled" mtime="1574434052" type="bool" value="true"/>
+	<entry name="command" mtime="1574434052" type="string">
+		<stringvalue>/home/jacobnorth/.local/share/mendeleydesktop %s</stringvalue>
+	</entry>
+</gconf>

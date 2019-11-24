@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=killall gnome-documents
+Comment=Run killall gnome-documents
+Exec=killall gnome-documents
+Terminal=false
+Type=Application

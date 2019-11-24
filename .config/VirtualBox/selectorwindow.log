@@ -1,0 +1,17 @@
+00:00:00.741783 VirtualBox GUI VM Selector Window 6.0.12 r132055 linux.amd64 (Sep 17 2019 10:48:12) release log
+00:00:00.741785 Log opened 2019-10-13T19:45:28.302503000Z
+00:00:00.741785 Build Type: release
+00:00:00.741787 OS Product: Linux
+00:00:00.741788 OS Release: 5.3.5-arch1-1-ARCH
+00:00:00.741789 OS Version: #1 SMP PREEMPT Mon Oct 7 19:03:08 UTC 2019
+00:00:00.741806 DMI Product Name: iX101B2
+00:00:00.741812 DMI Product Version: 0.1
+00:00:00.741838 Host RAM: 7853MB (7.6GB) total, 4540MB (4.4GB) available
+00:00:00.741840 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.741840 Process ID: 56998
+00:00:00.741841 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.741863 Qt version: 5.13.1
+00:00:00.767610 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.173346 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x34 x 1920x1046
+00:00:01.210949 Failed to open "/dev/vboxdrv", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:01.211029 GUI: UIMediumEnumerator: Medium-enumeration finished!
